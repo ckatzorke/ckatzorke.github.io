@@ -1,0 +1,27 @@
+{
+  "name": "ckatzorke.github.io",
+  "version": "1.0.0",
+  "description": "My github pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckatzorke/ckatzorke.github.io.git"
+  },
+  "keywords": [
+    "github",
+    "pages",
+    "homepage"
+  ],
+  "author": "christian katzorke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ckatzorke/ckatzorke.github.io/issues"
+  },
+  "homepage": "https://github.com/ckatzorke/ckatzorke.github.io#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.2"
+  }
+}
